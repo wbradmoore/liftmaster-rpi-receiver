@@ -1,0 +1,6 @@
+{
+  "2": "https://example.com/api/liftmaster-button-1",
+  "3": "https://example.com/api/liftmaster-button-2",
+  "4": "https://example.com/api/liftmaster-button-3",
+  "heartbeat": "https://example.com/api/liftmaster-heartbeat"
+}
